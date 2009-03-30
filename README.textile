@@ -1,0 +1,10 @@
+h1. Mephisto Plugin: Inverse Captcha for Comments (anti-spam)
+
+Highly efficient *) anti-comment-spam trick that adds an "outer floodgate":http://www.artweb-design.de/2007/9/25/inverse-captcha-anti-comment-spam-technique-now-a-regular-mephisto-plugin to Mephistos already very good spam-protection (Akismet).
+
+This plugin easily extends your Mephisto blog with an "inverse captcha":http://damienkatz.net/2007/01/negative_captch.html mechanism which relies exclusively on CSS. No JS, no user action required. It even falls back/plays nice with non-CSS clients.
+
+"http://www.artweb-design.de/projects/mephisto-plugin-inverse-captcha-for-comments-anti-spam":http://www.artweb-design.de/projects/mephisto-plugin-inverse-captcha-for-comments-anti-spam
+
+*) by "highly efficient" I mean: I had to delete about 3 manually crafted spam comments in 2 years. That's about it.
+
